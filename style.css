@@ -234,7 +234,7 @@ nav a:hover{
 }
 
 .contact-info{
-    color: black;
+    color: white;
     display: flex;
     float: right;
     flex-direction: column;
